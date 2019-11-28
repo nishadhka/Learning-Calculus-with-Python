@@ -6,18 +6,20 @@ Python with easy to read and learn features is an wonderful learning aid. It set
 **Workshop outline**
 
 1. Calculus basics with Python (50 minutes), [Notebook](https://github.com/nishadhka/Learning-Calculus-with-Python/blob/master/introduction/Calculus-Differentiation-Integration.ipynb)
-   a. Sympy introduction 
-   b. Pyclaw introduction
+     - Sympy introduction 
+     - Pyclaw introduction
 2. Applications
+     - 
 
 **Prerequisites**
 
 Python 3 with Numpy, Scipy, SymPy and Matplotlib is prerequisite for examples 1 and 2, Pyclaw is required for example3
 
+**UPDATE**
 **Jupyter Hub online at**
 http://howtotrainyourcomputer.in
  
-Access to the Jupyter Hub for first 30 users, please mention your github username in [this](https://docs.google.com/document/d/1cvXCpSMA1ItG7ZENaW_JccAQZEB2ZqciL3qYkF7dlTg/edit?usp=sharing) document to white list the access.
+Access to the Jupyter Hub for first 30 users, please mention your github username in [this](https://docs.google.com/document/d/1cvXCpSMA1ItG7ZENaW_JccAQZEB2ZqciL3qYkF7dlTg/edit?usp=sharing) document to white list your access.
 
 **Workshop content**
 
