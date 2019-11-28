@@ -9,13 +9,13 @@ Python with easy to read and learn features is an wonderful learning aid. It set
      - Sympy introduction 
      - Pyclaw introduction
 2. Applications
-     - 
+
 
 **Prerequisites**
 
 Python 3 with Numpy, Scipy, SymPy and Matplotlib is prerequisite for examples 1 and 2, Pyclaw is required for example3
 
-**UPDATE**
+# UPDATE
 **Jupyter Hub online at**
 http://howtotrainyourcomputer.in
  
