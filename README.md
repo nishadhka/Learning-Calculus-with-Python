@@ -21,6 +21,11 @@ http://howtotrainyourcomputer.in
  
 Access to the Jupyter Hub for first 30 users, please mention your github username in [this](https://docs.google.com/document/d/1cvXCpSMA1ItG7ZENaW_JccAQZEB2ZqciL3qYkF7dlTg/edit?usp=sharing) document to white list your access.
 
+## important reads
+1. http://publish.illinois.edu/pillsburydoughcat/puff-model/
+2. https://github.com/milankl/brownian
+
+
 **Workshop content**
 
 Workshop example contents are based on 

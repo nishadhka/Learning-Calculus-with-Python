@@ -4,10 +4,44 @@ import numpy
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 from mpl_toolkits.basemap import Basemap
- 
-from parameters import *
-from variables import *
-from initial import *
+
+
+## Parameters 
+from parameters import num_particles
+from parameters import time
+from parameters import dt
+from parameters import time_steps
+from parameters import D
+from parameters import K_h 
+from parameters import K_v
+from parameters import start_lat
+from parameters import start_lon 
+from parameters import sigma_lon 
+from parameters import sigma_lat 
+from parameters import U
+from parameters import V 
+from parameters import W
+from parameters import alt_coor
+from parameters import lat_coor
+from parameters import lon_coor 
+
+
+## variables
+from variables import Rnew
+from variables import Rold
+from variables import R_step1
+from variables import R_step2
+from variables import R_step3
+from variables import R_step4
+from variables import Active
+
+## Intials
+from initial import initial
+
+## degree_conversion 
+from degree_conversion degree_to_dx
+
+
 from advectionx import*
 from advectiony import*
 from advectionz import*

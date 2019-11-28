@@ -6,7 +6,7 @@ import scipy.interpolate as interp
 R_advection = np.zeros((num_particles))
  
 def advectionx(R,A,T,t):
-    for i in xrange(0,num_particles):
+    for i in range(0,num_particles):
         if A[i] == 1 and R[i,0] > 0.0:
             alt_part = R[i,0]
             lat_part = R[i,1]

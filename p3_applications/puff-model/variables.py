@@ -1,7 +1,7 @@
 #Code from http://publish.illinois.edu/pillsburydoughcat/puff-model/puff-model-supplementary-material/
 #variables
 import numpy as np
-from parameters import *
+from parameters import num_particles
  
 #particle #,  location of paritcles
 Rnew = np.zeros((num_particles,3)) #lat,lon,alt
