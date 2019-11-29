@@ -1,14 +1,14 @@
 # Learning-Calculus-with-Python
 
 
-Python with easy to read and learn features is an wonderful learning aid. It sets up perfect tool to know about calculus and its real-world applications. This workshop goes through the use of calculus in three simulation examples and aims to give a basic introduction and learning pathways for numerical modeling.  The first example is about taxi trip simulation, second on trajectory models and third on simulation using Pyclaw library. We will have introductory exercise on basic of calculus, different concepts involved in the cases. 
+Python with easy to read and learn features is an wonderful learning aid. It sets up perfect tool to know about calculus and its real-world applications. This workshop goes through the use of calculus in three simulation examples and aims to give a basic introduction and learning pathways for numerical modeling.  The first example is about Brownian motion, second on trajectory models and third on simulation using Pyclaw library. We will have introductory exercise on basic of calculus, different concepts involved in the cases. 
 
 **Workshop outline**
-
-1. Calculus basics with Python (50 minutes), [Notebook](https://github.com/nishadhka/Learning-Calculus-with-Python/blob/master/introduction/Calculus-Differentiation-Integration.ipynb)
+1. Python Basics
+2. Calculus basics with Python
      - Sympy introduction 
      - Pyclaw introduction
-2. Applications
+3. Applications
 
 
 **Prerequisites**
@@ -21,15 +21,18 @@ http://howtotrainyourcomputer.in
  
 Access to the Jupyter Hub for first 30 users, please mention your github username in [this](https://docs.google.com/document/d/1cvXCpSMA1ItG7ZENaW_JccAQZEB2ZqciL3qYkF7dlTg/edit?usp=sharing) document to white list your access.
 
-## important reads
-1. http://publish.illinois.edu/pillsburydoughcat/puff-model/
-2. https://github.com/milankl/brownian
 
 
-**Workshop content**
+# Workshop Agenda
 
-Workshop example contents are based on 
+1. Python Basics 
+2. Sympy Introduction
+3. PyClaw Introduction
+4. Application- Brownian motion
 
-1. Jeffrey's and his cat's website, http://publish.illinois.edu/pillsburydoughcat/
-2. Svein Linge and Hans Petter Langtangen (2016) Programming for Computations - A Gentle Introduction to Numerical Simulations with Python, https://hplgit.github.io/prog4comp/doc/pub/p4c_Python.pdf
 
+# Important notes
+
+1. http://www.stevenstrogatz.com/books/infinite-powers
+2. http://publish.illinois.edu/pillsburydoughcat/puff-model/puff-model-supplementary-material/
+3. http://www.milank.de/brownian-motion#main
